@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Kabir</h1>
+<h1 align="center"><b>Hello this is Kabir 👋</b></h1>
 
 <p align="center">
 First-year B.Tech CSE student at Vishwakarma University, Pune
