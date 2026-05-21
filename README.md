@@ -48,18 +48,6 @@ Currently learning, building, experimenting, and contributing one step at a time
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-
-</p>
-
----
-
 ## Contribution Streak
 
 <p align="center">
