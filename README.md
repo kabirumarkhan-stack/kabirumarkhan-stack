@@ -64,5 +64,5 @@ Currently learning, building, experimenting, and contributing one step at a time
 ---
 
 <p align="center">
-Still learning. Still building.
+Still learning. Still building.Still Passionate
 </p>
