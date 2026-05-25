@@ -48,6 +48,18 @@ Currently learning, building, experimenting, and contributing one step at a time
 
 ---
 
+## Activity
+
+<p align="center">
+  
+  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabirumarkhan-stack&theme=react-dark&hide_border=true&color=00ff88&line=00ff88&point=ffffff" />
+</p>
+
+---
+
 ## Contribution Streak
 
 <p align="center">
